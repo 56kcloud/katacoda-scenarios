@@ -18,7 +18,7 @@
   },
     "environment": {
       "uilayout": "editor-terminal",
-      "uimessage1": "\u001b[36mYour Interactive Bash Terminal.\u001b[m\r\n",
+      "uimessage1": "Your Interactive Bash Terminal.",
       "uieditorpath": "/home/traefik"
     },
   "backend": {
